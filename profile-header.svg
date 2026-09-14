@@ -74,7 +74,7 @@
     <image id=" https://raw.githubusercontent.com/aalsmawy644-collab/aalsmawy644-collab/main/profile.jpg" clip-path="url(#photoClip)"
            x="40" y="68" width="244" height="292"
            preserveAspectRatio="xMidYMid slice"
-           xlink:href="https://raw.githubusercontent.com/aalsmawy644-collab/aalsmawy644-collab/main/assets/profile.jpg"/>
+           xlink:href="https://raw.githubusercontent.com/aalsmawy644-collab/aalsmawy644-collab/main/profile.jpg"/>
 
     <!-- زوايا مقصوصة -->
     <path class="bracket" d="M34 86 V62 H58"/>
