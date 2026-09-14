@@ -71,7 +71,7 @@
     <rect x="34" y="62" width="256" height="304" rx="8" fill="none" stroke="#22d3ee" stroke-width="1" opacity=".3"/>
     <rect x="40" y="68" width="244" height="292" rx="6" fill="#f1f5f9"/>
 
-    <image id="https://raw.githubusercontent.com/aalsmawy644-collab/aalsmawy644-collab/main/assets/profile.jpg" clip-path="url(#photoClip)"
+    <image id="PROFILE_IMAGE_URL" clip-path="url(#photoClip)"
            x="40" y="68" width="244" height="292"
            preserveAspectRatio="xMidYMid slice"
            xlink:href="https://raw.githubusercontent.com/aalsmawy644-collab/aalsmawy644-collab/main/assets/profile.jpg"/>
