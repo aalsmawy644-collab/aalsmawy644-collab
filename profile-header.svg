@@ -1,142 +1,261 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-     viewBox="0 0 900 420" width="100%" role="img"
-     aria-label="Amgad AL-samawi — profile header" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpkNTA1ZTdkZS05ZTgyLTQ4ZjEtYmE0NC00ZTkzMjQ1ZmJmMzkAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaFiVgPeDPGxXQAvl0KV07C4AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDozZmIwZGU3Ni0xZGQ2LTQwMTUtOTcyYy0zMGNiY2Y2OWRiODJscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoW8+ev5PHG7zD5L3GTU0YEQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggtNw4oCef4GRdb4TXnUgokJT3UgP1tPZD9AluPaeBn7+kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaA37zaHz87xQDyGEyNbAAaYAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBfs8Ac2h+VFYqKGKvd9u/pkNj9cKI80kZLO81AFX6nw2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBj6Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmQ1MDVlN2RlLTllODItNDhmMS1iYTQ0LTRlOTMyNDVmYmYzOS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjNlODZlNTJmLTY5YjEtNDhhZi05NjQzLWJiZWFjMWY3NDk0N3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCC03DigJ5/gZF1vhNedSCiQlPdSA/W09kP0CW49p4Gfv6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggxCPQ2wVRx++h6ELdujKnGem2jymeewmUBzwkJed8Mv6iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggwW1KBFZH8tO/MZqvl4/XqbRoJ7uf64YcMrXyCT0c9jZ0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQBNSntodrjEH96u/OAVs3NgDD4ziptlvzIkvfIY9x0GZDKv38zq92orCv5ULl6ii9SbREKjSVnVrAhSbnVDzAiU=</c2pa:manifest></metadata>
-  <title>Amgad AL-samawi — Full-Stack &amp; Deep Learning Developer</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="100%" role="img" aria-label="Amgad AL-samawi — Profile Header">
+  <title>Amgad AL-samawi — AI &amp; Full-Stack Developer</title>
 
-  <!--
-    ================== كيف أضع صورتي؟ ==================
-    ابحث في الأسفل عن العنصر <image id="PROFILE_IMAGE_URL" ... xlink:href="...">
-    واستبدل قيمة xlink:href برابط raw للصورة من مستودعك، مثال:
-    https://raw.githubusercontent.com/aalsmawy644-collab/aalsmawy644-collab/main/assets/me.jpg
-    ملاحظة: GitHub لا يحمّل صورًا خارجية داخل SVG في بعض الحالات، فالأضمن
-    تحويل الصورة إلى Base64 ووضعها هكذا:
-    xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRg..."
-    (أمر التحويل: base64 -w 0 me.jpg > me.txt)
-    ====================================================
-  -->
+  <defs>
+    <!-- تدرجات لونية عصرية -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080c14" />
+      <stop offset="50%" stop-color="#0d1424" />
+      <stop offset="100%" stop-color="#060911" />
+    </linearGradient>
+
+    <linearGradient id="cyanGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f0ff" />
+      <stop offset="100%" stop-color="#7000ff" />
+    </linearGradient>
+
+    <linearGradient id="laserGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00f0ff" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#00f0ff" stop-opacity="0" />
+    </linearGradient>
+
+    <linearGradient id="radarGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#7000ff" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- فلاتر التوهج النيون -->
+    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="boxShadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="10" stdDeviation="15" flood-color="#000000" flood-opacity="0.6"/>
+    </filter>
+
+    <!-- قص إطار الرادار -->
+    <clipPath id="scannerClip">
+      <rect x="40" y="68" width="248" height="294" rx="10" />
+    </clipPath>
+  </defs>
 
   <style>
-    .mono { font-family: "JetBrains Mono","Fira Code","SFMono-Regular",
-             "DejaVu Sans Mono",Consolas,"Liberation Mono",Menlo,monospace; }
-    .ln   { font-size: 12.0px; letter-spacing: 0; }
-    .k    { fill: #22d3ee; }
-    .d    { fill: #cbd5e1; }
-    .v    { fill: #334155; }
-    .hdr  { font-size: 11px; fill: #94a3b8; letter-spacing: .5px; }
-    .foot { font-size: 10.5px; fill: #94a3b8; }
-    .sep  { stroke: #e2e8f0; stroke-width: 1; }
-    .lead { stroke: #cbd5e1; stroke-width: 1.4; stroke-linecap: round;
-             stroke-dasharray: 0.2 4.6; }
-    .chrome-txt { font-size: 10.5px; fill: #94a3b8; }
-    .tag  { font-size: 10px; fill: #94a3b8; letter-spacing: 1px; }
-    .panel-title { font-size: 12.5px; fill: #334155; font-weight: 600; letter-spacing: .6px; }
-    .live { font-size: 10px; fill: #ef4444; letter-spacing: .8px; }
-    .bracket { stroke: #22d3ee; stroke-width: 2.4; fill: none; stroke-linecap: square; }
-    @media (prefers-color-scheme: dark) {
-      .win { fill: #0f172a; }
-      .bar { fill: #1e293b; }
-      .v, .panel-title { fill: #e2e8f0; }
-      .d { fill: #334155; }
-      .sep { stroke: #1e293b; }
+    /* الخطوط والتنسيقات */
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; }
+    .ln   { font-size: 11.8px; }
+    .k    { fill: #00f0ff; font-weight: 600; }
+    .d    { fill: #1e293b; }
+    .v    { fill: #e2e8f0; font-weight: 500; }
+    .hdr  { font-size: 11px; fill: #64748b; letter-spacing: 1px; }
+    .foot { font-size: 10px; fill: #64748b; }
+    .lead { stroke: #334155; stroke-width: 1.2; stroke-linecap: round; stroke-dasharray: 1 4; }
+    .sep  { stroke: #1e293b; stroke-width: 1; }
+
+    /* أنيميشن الرادار والمسح بالليزر */
+    @keyframes rotateRadar {
+      from { transform: rotate(0deg); }
+      to   { transform: rotate(360deg); }
+    }
+    @keyframes rotateReverse {
+      from { transform: rotate(360deg); }
+      to   { transform: rotate(0deg); }
+    }
+    @keyframes laserSweep {
+      0%   { transform: translateY(0px); opacity: 0.2; }
+      50%  { opacity: 0.9; }
+      100% { transform: translateY(280px); opacity: 0.2; }
+    }
+    @keyframes pulseCore {
+      0%, 100% { transform: scale(1); opacity: 0.8; filter: drop-shadow(0 0 4px #00f0ff); }
+      50%      { transform: scale(1.15); opacity: 1; filter: drop-shadow(0 0 12px #00f0ff); }
+    }
+    @keyframes blinkLive {
+      0%, 100% { opacity: 1; }
+      50%      { opacity: 0.3; }
+    }
+    @keyframes floatParticle {
+      0%, 100% { transform: translateY(0) translateX(0); }
+      50%      { transform: translateY(-8px) translateX(4px); }
+    }
+
+    .radar-circle {
+      transform-origin: 164px 215px;
+      animation: rotateRadar 14s linear infinite;
+    }
+    .radar-circle-rev {
+      transform-origin: 164px 215px;
+      animation: rotateReverse 9s linear infinite;
+    }
+    .laser-line {
+      animation: laserSweep 3.2s ease-in-out infinite;
+    }
+    .ai-core {
+      transform-origin: 164px 215px;
+      animation: pulseCore 2.5s ease-in-out infinite;
+    }
+    .live-dot {
+      animation: blinkLive 1.5s infinite;
+    }
+    .particle {
+      animation: floatParticle 4s ease-in-out infinite;
     }
   </style>
 
-  <defs>
-    <clipPath id="photoClip">
-      <rect x="40" y="68" width="244" height="292" rx="6"/>
-    </clipPath>
-    <filter id="soft" x="-10%" y="-10%" width="120%" height="130%">
-      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#0f172a" flood-opacity="0.10"/>
-    </filter>
-  </defs>
+  <!-- جسم النافذة الرئيسية (Dark Cyber Theme) -->
+  <g class="mono" filter="url(#boxShadow)">
+    <rect x="10" y="10" width="880" height="400" rx="16" fill="url(#bgGrad)" stroke="#1e293b" stroke-width="1.5"/>
+    <!-- الشريط العلوي -->
+    <path d="M10 26a16 16 0 0 1 16-16h848a16 16 0 0 1 16 16v16H10z" fill="#0f172a" />
+    <line x1="10" y1="42" x2="890" y2="42" stroke="#1e293b" stroke-width="1"/>
 
-  <g class="mono" filter="url(#soft)">
-    <!-- نافذة -->
-    <rect class="win" x="10" y="10" width="880" height="400" rx="14" fill="#ffffff" stroke="#e2e8f0"/>
-    <path class="bar" d="M10 24a14 14 0 0 1 14-14h852a14 14 0 0 1 14 14v14H10z" fill="#f8fafc"/>
-    <line x1="10" y1="44" x2="890" y2="44" stroke="#e2e8f0" stroke-width="1"/>
+    <!-- أزرار نافذة macOS -->
+    <circle cx="34" cy="26" r="5" fill="#ff5f57"/>
+    <circle cx="52" cy="26" r="5" fill="#febc2e"/>
+    <circle cx="70" cy="26" r="5" fill="#28c840"/>
 
-    <!-- أزرار macOS -->
-    <circle cx="34" cy="27" r="5.5" fill="#ff5f57"/>
-    <circle cx="54" cy="27" r="5.5" fill="#febc2e"/>
-    <circle cx="74" cy="27" r="5.5" fill="#28c840"/>
-
-    <!-- عنوان الشريط -->
-    <text class="chrome-txt" x="450.0" y="31" text-anchor="middle">aalsmawy644@gmail.com — 0 ./profile.sh --live</text>
+    <!-- مسار التيرمينال العلوي -->
+    <text x="450" y="30" text-anchor="middle" font-size="10.5" fill="#64748b">aalsmawy644@gmail.com — 0 ./ai_core.sh --live</text>
   </g>
 
+  <!-- ================= الجانب الأيسر: AI NEURAL CORE & VISUALIZER ================= -->
   <g class="mono">
-    <!-- ===== العمود الأيسر: الصورة ===== -->
-    <text class="tag" x="40" y="60">visual.map</text>
-    <rect x="34" y="62" width="256" height="304" rx="8" fill="none" stroke="#22d3ee" stroke-width="1" opacity=".3"/>
-    <rect x="40" y="68" width="244" height="292" rx="6" fill="#f1f5f9"/>
+    <text x="40" y="60" font-size="10" fill="#00f0ff" letter-spacing="1.2">AI.NEURAL_MAP // ACTIVE</text>
+    <rect x="34" y="62" width="260" height="306" rx="10" fill="#060911" stroke="#00f0ff" stroke-width="1" stroke-opacity="0.3"/>
 
-    <image id="PROFILE_IMAGE_URL"
-       clip-path="url(#photoClip)"
-       x="40" y="68" width="244" height="292"
-       preserveAspectRatio="xMidYMid slice"
-       href="./profile.png"
-       xlink:href="./profile.png"/>
-       
+    <!-- محتوى الرادار والذكاء الاصطناعي التفاعلي -->
+    <g clip-path="url(#scannerClip)">
+      <!-- شبكة خلفية تقنية -->
+      <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+        <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#1e293b" stroke-width="0.5" stroke-opacity="0.4"/>
+      </pattern>
+      <rect x="40" y="68" width="248" height="294" fill="url(#grid)" />
 
-       
-    <!-- زوايا مقصوصة -->
-    <path class="bracket" d="M34 86 V62 H58"/>
-    <path class="bracket" d="M266 62 H290 V86"/>
-    <path class="bracket" d="M290 342 V366 H266"/>
-    <path class="bracket" d="M58 366 H34 V342"/>
+      <!-- دوائر الرادار الدوارة -->
+      <circle cx="164" cy="215" r="95" fill="none" stroke="#1e293b" stroke-width="1" />
+      <circle cx="164" cy="215" r="70" fill="none" stroke="#00f0ff" stroke-width="1" stroke-opacity="0.2" stroke-dasharray="6 6" class="radar-circle" />
+      <circle cx="164" cy="215" r="45" fill="none" stroke="#7000ff" stroke-width="1.2" stroke-opacity="0.4" stroke-dasharray="10 4 2 4" class="radar-circle-rev" />
 
-    <!-- ===== العمود الأيمن: المعلومات ===== -->
-    <text class="panel-title" x="344.0" y="68">SYSTEM.INFO</text>
-    <circle cx="826.0" cy="64" r="3.2" fill="#ef4444"/>
-    <text class="live" x="872.0" y="68" text-anchor="end">LIVE</text>
-    <line class="sep" x1="344.0" y1="78" x2="872.0" y2="78"/>
+      <!-- خطوط محاور الرادار -->
+      <line x1="164" y1="115" x2="164" y2="315" stroke="#00f0ff" stroke-width="0.7" stroke-opacity="0.2" />
+      <line x1="64" y1="215" x2="264" y2="215" stroke="#00f0ff" stroke-width="0.7" stroke-opacity="0.2" />
 
-  <text class="ln k" x="344.0" y="96.0">Subject</text>
-  <line class="lead" x1="403.1" y1="92.5" x2="753.4" y2="92.5"/>
-  <text class="ln v" x="872.0" y="96.0" text-anchor="end">Amgad AL-samawi</text>
-  <text class="ln k" x="344.0" y="112.6">Role</text>
-  <line class="lead" x1="380.8" y1="109.1" x2="664.1" y2="109.1"/>
-  <text class="ln v" x="872.0" y="112.6" text-anchor="end">AI Enthusiast &amp; Team Leader</text>
-  <text class="ln k" x="344.0" y="129.2">Focus</text>
-  <line class="lead" x1="388.2" y1="125.7" x2="634.4" y2="125.7"/>
-  <text class="ln v" x="872.0" y="129.2" text-anchor="end">Intelligent Systems &amp; Analytics</text>
-  <text class="ln k" x="344.0" y="145.8">Education</text>
-  <line class="lead" x1="418.0" y1="142.3" x2="790.6" y2="142.3"/>
-  <text class="ln v" x="872.0" y="145.8" text-anchor="end">CS Student</text>
-  <text class="ln k" x="344.0" y="162.4">Status</text>
-  <line class="lead" x1="395.6" y1="158.9" x2="656.7" y2="158.9"/>
-  <text class="ln v" x="872.0" y="162.4" text-anchor="end">Research • AI • Software Dev</text>
-  <text class="ln k" x="344.0" y="179.0">ToolChain</text>
-  <line class="lead" x1="418.0" y1="175.5" x2="664.1" y2="175.5"/>
-  <text class="ln v" x="872.0" y="179.0" text-anchor="end">VS Code, Visual Studio, Git</text>
-  <line class="sep" x1="344.0" y1="189.6" x2="872.0" y2="189.6"/>
-  <text class="ln k" x="344.0" y="204.6">Core.Lang</text>
-  <line class="lead" x1="418.0" y1="201.1" x2="701.3" y2="201.1"/>
-  <text class="ln v" x="872.0" y="204.6" text-anchor="end">Python, C#, TypeScript</text>
-  <text class="ln k" x="344.0" y="221.2">Core.Frontend</text>
-  <line class="lead" x1="447.7" y1="217.7" x2="693.9" y2="217.7"/>
-  <text class="ln v" x="872.0" y="221.2" text-anchor="end">Next.js, React, Flutter</text>
-  <text class="ln k" x="344.0" y="237.8">Core.Backend</text>
-  <line class="lead" x1="440.3" y1="234.3" x2="679.0" y2="234.3"/>
-  <text class="ln v" x="872.0" y="237.8" text-anchor="end">ASP.NET, EF Core, Node.js</text>
-  <text class="ln k" x="344.0" y="254.4">Core.Database</text>
-  <line class="lead" x1="447.7" y1="250.9" x2="731.1" y2="250.9"/>
-  <text class="ln v" x="872.0" y="254.4" text-anchor="end">PostgreSQL, SQLite</text>
-  <text class="hdr" x="344.0" y="275.0">- Contact -</text>
-  <text class="ln k" x="344.0" y="290.6">Grid.Mail</text>
-  <line class="lead" x1="418.0" y1="287.1" x2="708.8" y2="287.1"/>
-  <text class="ln v" x="872.0" y="290.6" text-anchor="end">aalsmawy644@gmail.com</text>
-  <text class="ln k" x="344.0" y="307.2">Grid.GitHub</text>
-  <line class="lead" x1="432.8" y1="303.7" x2="723.6" y2="303.7"/>
-  <text class="ln v" x="872.0" y="307.2" text-anchor="end">@aalsmawy644-collab</text>
-  <text class="ln k" x="344.0" y="323.8">Grid.LinkedIn</text>
-  <line class="lead" x1="447.7" y1="320.3" x2="753.4" y2="320.3"/>
-  <text class="ln v" x="872.0" y="323.8" text-anchor="end">amgad-al-samawi</text>
-  <text class="foot" x="344.0" y="350.4">» More about me &amp; projects below in README ↓</text>
+      <!-- أيقونة الـ AI Core المتوهجة في المركز -->
+      <g class="ai-core">
+        <circle cx="164" cy="215" r="24" fill="#080c14" stroke="#00f0ff" stroke-width="1.8" filter="url(#neonGlow)"/>
+        <circle cx="164" cy="215" r="12" fill="url(#cyanGlow)" opacity="0.8"/>
+        <!-- شريحة المعالج -->
+        <rect x="157" y="208" width="14" height="14" rx="2" fill="#ffffff" />
+      </g>
 
-    <!-- شريط لوني سفلي خفيف -->
-    <rect x="344.0" y="388" width="60" height="2.5" rx="1.2" fill="#22d3ee"/>
-    <rect x="410.0" y="388" width="26" height="2.5" rx="1.2" fill="#3b82f6" opacity=".6"/>
+      <!-- نقاط الشبكة العصبية العائمة -->
+      <g class="particle">
+        <circle cx="120" cy="160" r="2.5" fill="#00f0ff" filter="url(#neonGlow)"/>
+        <line x1="120" y1="160" x2="150" y2="200" stroke="#00f0ff" stroke-width="0.8" stroke-opacity="0.4"/>
+        
+        <circle cx="210" cy="165" r="2.5" fill="#7000ff" filter="url(#neonGlow)"/>
+        <line x1="210" y1="165" x2="175" y2="202" stroke="#7000ff" stroke-width="0.8" stroke-opacity="0.4"/>
+
+        <circle cx="130" cy="265" r="2" fill="#00f0ff" filter="url(#neonGlow)"/>
+        <line x1="130" y1="265" x2="155" y2="225" stroke="#00f0ff" stroke-width="0.8" stroke-opacity="0.4"/>
+
+        <circle cx="205" cy="260" r="2" fill="#22c55e" filter="url(#neonGlow)"/>
+        <line x1="205" y1="260" x2="173" y2="225" stroke="#22c55e" stroke-width="0.8" stroke-opacity="0.4"/>
+      </g>
+
+      <!-- خط الليزر الماسح (Laser Scanline) -->
+      <g class="laser-line">
+        <rect x="40" y="68" width="248" height="2" fill="#00f0ff" filter="url(#neonGlow)" />
+        <rect x="40" y="58" width="248" height="20" fill="url(#laserGrad)" opacity="0.3"/>
+      </g>
+
+      <!-- نص الحالة أسفل الرادار -->
+      <rect x="52" y="332" width="224" height="22" rx="4" fill="#080c14" stroke="#1e293b" stroke-width="1"/>
+      <circle cx="64" cy="343" r="3" fill="#22c55e" class="live-dot"/>
+      <text x="74" y="347" font-size="9" fill="#94a3b8" letter-spacing="0.8">SYSTEM STATUS: <tspan fill="#22c55e" font-weight="700">ONLINE</tspan></text>
+    </g>
+
+    <!-- زوايا الإطار السيبراني (Cyber Brackets) -->
+    <path d="M34 82 V62 H54" stroke="#00f0ff" stroke-width="2" fill="none"/>
+    <path d="M274 62 H294 V82" stroke="#00f0ff" stroke-width="2" fill="none"/>
+    <path d="M294 348 V368 H274" stroke="#00f0ff" stroke-width="2" fill="none"/>
+    <path d="M54 368 H34 V348" stroke="#00f0ff" stroke-width="2" fill="none"/>
+  </g>
+
+  <!-- ================= الجانب الأيمن: SYSTEM.INFO ================= -->
+  <g class="mono">
+    <text x="344" y="68" font-size="13" fill="#ffffff" font-weight="700" letter-spacing="1">SYSTEM.INFO</text>
+    <circle cx="826" cy="64" r="3.5" fill="#ef4444" class="live-dot" filter="url(#neonGlow)"/>
+    <text x="872" y="68" font-size="10" fill="#ef4444" text-anchor="end" font-weight="700" letter-spacing="0.8">LIVE</text>
+    <line class="sep" x1="344" y1="78" x2="872" y2="78"/>
+
+    <!-- البيانات الشخصية والتقنية -->
+    <text class="ln k" x="344" y="96">Subject</text>
+    <line class="lead" x1="403" y1="92.5" x2="730" y2="92.5"/>
+    <text class="ln v" x="872" y="96" text-anchor="end">Amgad AL-samawi</text>
+
+    <text class="ln k" x="344" y="113">Role</text>
+    <line class="lead" x1="380" y1="109.5" x2="650" y2="109.5"/>
+    <text class="ln v" x="872" y="113" text-anchor="end">AI Enthusiast &amp; Team Leader</text>
+
+    <text class="ln k" x="344" y="130">Focus</text>
+    <line class="lead" x1="388" y1="126.5" x2="620" y2="126.5"/>
+    <text class="ln v" x="872" y="130" text-anchor="end">Intelligent Systems &amp; Analytics</text>
+
+    <text class="ln k" x="344" y="147">Education</text>
+    <line class="lead" x1="418" y1="143.5" x2="775" y2="143.5"/>
+    <text class="ln v" x="872" y="147" text-anchor="end">CS Student</text>
+
+    <text class="ln k" x="344" y="164">Status</text>
+    <line class="lead" x1="395" y1="160.5" x2="640" y2="160.5"/>
+    <text class="ln v" x="872" y="164" text-anchor="end">Research • AI • Software Dev</text>
+
+    <text class="ln k" x="344" y="181">ToolChain</text>
+    <line class="lead" x1="418" y1="177.5" x2="650" y2="177.5"/>
+    <text class="ln v" x="872" y="181" text-anchor="end">VS Code, Visual Studio, Git</text>
+
+    <line class="sep" x1="344" y1="191" x2="872" y2="191"/>
+
+    <!-- المهارات البرمجية -->
+    <text class="ln k" x="344" y="206">Core.Lang</text>
+    <line class="lead" x1="418" y1="202.5" x2="690" y2="202.5"/>
+    <text class="ln v" x="872" y="206" text-anchor="end">Python, C#, TypeScript</text>
+
+    <text class="ln k" x="344" y="223">Core.Frontend</text>
+    <line class="lead" x1="447" y1="219.5" x2="685" y2="219.5"/>
+    <text class="ln v" x="872" y="223" text-anchor="end">Next.js, React, Flutter</text>
+
+    <text class="ln k" x="344" y="240">Core.Backend</text>
+    <line class="lead" x1="440" y1="236.5" x2="670" y2="236.5"/>
+    <text class="ln v" x="872" y="240" text-anchor="end">ASP.NET, EF Core, Node.js</text>
+
+    <text class="ln k" x="344" y="257">Core.Database</text>
+    <line class="lead" x1="447" y1="253.5" x2="720" y2="253.5"/>
+    <text class="ln v" x="872" y="257" text-anchor="end">PostgreSQL, SQLite</text>
+
+    <!-- معلومات التواصل -->
+    <text class="hdr" x="344" y="278">- Contact Grid -</text>
+
+    <text class="ln k" x="344" y="293">Grid.Mail</text>
+    <line class="lead" x1="418" y1="289.5" x2="700" y2="289.5"/>
+    <text class="ln v" x="872" y="293" text-anchor="end">aalsmawy644@gmail.com</text>
+
+    <text class="ln k" x="344" y="310">Grid.GitHub</text>
+    <line class="lead" x1="432" y1="306.5" x2="715" y2="306.5"/>
+    <text class="ln v" x="872" y="310" text-anchor="end">@aalsmawy644-collab</text>
+
+    <text class="ln k" x="344" y="327">Grid.LinkedIn</text>
+    <line class="lead" x1="447" y1="323.5" x2="740" y2="323.5"/>
+    <text class="ln v" x="872" y="327" text-anchor="end">amgad-al-samawi</text>
+
+    <text class="foot" x="344" y="354">» Scroll down for featured projects &amp; activity ↓</text>
+
+    <!-- خطوط شريط نيون سفلي -->
+    <rect x="344" y="388" width="70" height="3" rx="1.5" fill="url(#cyanGlow)" filter="url(#neonGlow)"/>
+    <rect x="420" y="388" width="30" height="3" rx="1.5" fill="#7000ff" opacity="0.6"/>
   </g>
 </svg>
